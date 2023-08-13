@@ -2,9 +2,6 @@
 <h3 align="center">a passionate second-year B.Tech student majoring in Computer Science and Engineering with a specialization in Cybersecurity and Digital Forensics.
 </h3>
 
-## 💫 About Me:
-Ever since I embarked on my journey in the world of technology, I've been fascinated by the intricate dance between software and security. With a keen interest in solving complex challenges, I often find myself immersed in Capture The Flag (CTF) competitions, where I tackle puzzles and vulnerabilities head-on. The thrill of unraveling cryptic problems and outsmarting adversaries keeps my problem-solving skills sharp and my adrenaline pumping.<br><br>Currently, I'm diving deep into the world of cybersecurity and digital forensics, honing my skills to become a vigilant guardian of the digital realm. My academic pursuits and hands-on experiences have given me insights into the ever-evolving landscape of threats and countermeasures.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desujoy&label=Profile%20views&color=0e75b6&style=flat" alt="desujoy" /> </p>
 
 
