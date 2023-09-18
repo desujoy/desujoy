@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujoy</h1>
-<h3 align="center">a passionate second-year B.Tech student majoring in CSE with a specialization in CSDF.
+<h3 align="center">a passionate B.Tech student majoring in CSE with a specialization in CSDF.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desujoy&label=Profile%20views&color=0e75b6&style=flat" alt="desujoy" /> </p>
