@@ -1,3 +1,5 @@
+<p align="center"><img src="gitartwork.svg" alt="Sujoy De"></p>
+
 <h1 align="center">Hi 👋, I'm Sujoy</h1>
 <h3 align="center">a passionate B.Tech student majoring in CSE with a specialization in CSDF.
 </h3>
