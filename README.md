@@ -1,5 +1,3 @@
-<p align="center"><img src="gitartwork.svg" alt="Sujoy De"></p>
-
 <h1 align="center">Hi 👋, I'm Sujoy</h1>
 <h3 align="center">
   a passionate B.Tech student majoring in CSE with a specialization in CSDF.
@@ -10,7 +8,7 @@
 
 ## 🌐 Socials:
 [![About.me](https://img.shields.io/badge/About.me-grey?style=for-the-badge&logo=aboutdotme)](https://about.me/sujoyde)
-[![Linktree](https://img.shields.io/badge/Linktree-grey?style=for-the-badge&logo=linktree)](linktr.ee/sujoy.de)
+[![Linktree](https://img.shields.io/badge/Linktree-grey?style=for-the-badge&logo=linktree)](https://linktr.ee/sujoy.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sujoy-de)
 [![Twitter](https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter)](https://twitter.com/5uj0y)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-grey?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/users/376937)
