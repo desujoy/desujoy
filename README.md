@@ -25,9 +25,6 @@
 [![GNU Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnubash)](https://www.gnu.org/software/bash/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-grey?style=for-the-badge&logo=powershell)](https://learn.microsoft.com/en-us/powershell/)
 [![Go](https://img.shields.io/badge/Go-grey?style=for-the-badge&logo=go)](https://go.dev/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-grey?style=for-the-badge&logo=jupyter)](https://jupyter.org/)
-[![Markdown](https://img.shields.io/badge/Markdown-grey?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/)
-[![MDX](https://img.shields.io/badge/MDX-grey?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzggNTciPgogIDx0aXRsZT5NRFg8L3RpdGxlPgogIDxzdHlsZT4KICAgIHJlY3QgeyBmaWxsOiAjMWIxZjI0IH0KICAgIGcgeyBzdHJva2U6ICNmZmYgfQogICAgQG1lZGlhIChwcmVmZXJzLWNvbG9yLXNjaGVtZTogZGFyaykgewogICAgICByZWN0IHsgZmlsbDogI2ZjYjMyYyB9CiAgICAgIGcgeyBzdHJva2U6ICMxYjFmMjQgfQogICAgfQogIDwvc3R5bGU+CiAgPHJlY3QKICAgIHdpZHRoPSIxMzYuNSIKICAgIGhlaWdodD0iNTUuNSIKICAgIHg9Ii43NSIKICAgIHk9Ii43NSIKICAgIHJ4PSI0LjUiCiAgLz4KICA8ZyBmaWxsPSJub25lIiBzdHJva2Utd2lkdGg9IjYiPgogICAgPHBhdGggZD0iTTE2LjUgNDRWMTlMMzAuMjUgMzIuNzVsMTQtMTR2MjUiIC8+CiAgICA8cGF0aCBkPSJNNzAuNSA0MFYxMC43NSIgLz4KICAgIDxwYXRoIGQ9Ik01NyAyNy4yNUw3MC41IDQwLjc1bDEzLjUtMTMuNSIgLz4KICAgIDxwYXRoIGQ9Ik0xMjIuNSA0MS4yNEw5My4yNSAxMk05My41IDQxLjI1TDEyMi43NSAxMiIgLz4KICA8L2c+Cjwvc3ZnPgo=)](https://mdxjs.com/)
 
 ### ⚙️ Tools:
 
@@ -99,6 +96,9 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-grey?style=for-the-badge&logo=microsoftazure)
 ![NGINX](https://img.shields.io/badge/NGINX-grey?style=for-the-badge&logo=nginx)
 ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx%20Proxy%20Manager-grey?style=for-the-badge&logo=nginxproxymanager)
+[![Jupyter](https://img.shields.io/badge/Jupyter-grey?style=for-the-badge&logo=jupyter)](https://jupyter.org/)
+[![Markdown](https://img.shields.io/badge/Markdown-grey?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/)
+[![MDX](https://img.shields.io/badge/MDX-grey?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzggNTciPgogIDx0aXRsZT5NRFg8L3RpdGxlPgogIDxzdHlsZT4KICAgIHJlY3QgeyBmaWxsOiAjMWIxZjI0IH0KICAgIGcgeyBzdHJva2U6ICNmZmYgfQogICAgQG1lZGlhIChwcmVmZXJzLWNvbG9yLXNjaGVtZTogZGFyaykgewogICAgICByZWN0IHsgZmlsbDogI2ZjYjMyYyB9CiAgICAgIGcgeyBzdHJva2U6ICMxYjFmMjQgfQogICAgfQogIDwvc3R5bGU+CiAgPHJlY3QKICAgIHdpZHRoPSIxMzYuNSIKICAgIGhlaWdodD0iNTUuNSIKICAgIHg9Ii43NSIKICAgIHk9Ii43NSIKICAgIHJ4PSI0LjUiCiAgLz4KICA8ZyBmaWxsPSJub25lIiBzdHJva2Utd2lkdGg9IjYiPgogICAgPHBhdGggZD0iTTE2LjUgNDRWMTlMMzAuMjUgMzIuNzVsMTQtMTR2MjUiIC8+CiAgICA8cGF0aCBkPSJNNzAuNSA0MFYxMC43NSIgLz4KICAgIDxwYXRoIGQ9Ik01NyAyNy4yNUw3MC41IDQwLjc1bDEzLjUtMTMuNSIgLz4KICAgIDxwYXRoIGQ9Ik0xMjIuNSA0MS4yNEw5My4yNSAxMk05My41IDQxLjI1TDEyMi43NSAxMiIgLz4KICA8L2c+Cjwvc3ZnPgo=)](https://mdxjs.com/)
 ![ngrok](https://img.shields.io/badge/ngrok-grey?style=for-the-badge&logo=ngrok)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-grey?style=for-the-badge&logo=openvpn)
 ![Pi-hole](https://img.shields.io/badge/Pi-hole-grey?style=for-the-badge&logo=pihole)
