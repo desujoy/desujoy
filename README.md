@@ -118,5 +118,3 @@
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=desujoy&theme=dark)](https://github.com/desujoy) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=desujoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut) |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-
-[![An image of @sujoy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujoy)](https://holopin.io/@sujoy)
