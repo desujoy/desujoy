@@ -37,13 +37,13 @@
 
 
 #### Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-grey?style=for-the-badge&logo=kalilinux)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-grey?style=for-the-badge&logo=burpsuite)
-![Metasploit](https://img.shields.io/badge/Metasploit-grey?style=for-the-badge&logo=metasploit)
-![Tor Project](https://img.shields.io/badge/Tor%20Project-grey?style=for-the-badge&logo=torproject)
-![Vagrant](https://img.shields.io/badge/Vagrant-grey?style=for-the-badge&logo=vagrant)
-![Wireshark](https://img.shields.io/badge/Wireshark-grey?style=for-the-badge&logo=wireshark)
-![ZAP](https://img.shields.io/badge/ZAP-grey?style=for-the-badge&logo=zap)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-grey?style=for-the-badge&logo=kalilinux)](https://www.kali.org/)
+[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-grey?style=for-the-badge&logo=burpsuite)](https://portswigger.net/burp)
+[![Metasploit](https://img.shields.io/badge/Metasploit-grey?style=for-the-badge&logo=metasploit)](https://www.metasploit.com/)
+[![Tor Project](https://img.shields.io/badge/Tor%20Project-grey?style=for-the-badge&logo=torproject)](https://www.torproject.org/)
+[![Vagrant](https://img.shields.io/badge/Vagrant-grey?style=for-the-badge&logo=vagrant)](https://www.vagrantup.com/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-grey?style=for-the-badge&logo=wireshark)](https://www.wireshark.org/)
+[![ZAP](https://img.shields.io/badge/ZAP-grey?style=for-the-badge&logo=zap)](https://www.zaproxy.org/)
 
 #### Full Stack Development
 ![HTML5](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5)
