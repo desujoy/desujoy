@@ -115,7 +115,7 @@
 ### 📊 Stats:
 
 
-| ![GitHub Streak](https://github-readme-streak-stats-alpha-seven.vercel.app?user=desujoy&theme=dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=desujoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut) |
+| ![GitHub Streak](https://github-readme-streak-stats-alpha-seven.vercel.app?user=desujoy&theme=dark) | [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/desujoy?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card) |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <picture>
